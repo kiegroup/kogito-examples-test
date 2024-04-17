@@ -19,4 +19,3 @@ jobs:
         with:
           main_sync_workflow_exclude_paths: ${{ vars.MAIN_SYNC_WORKFLOW_EXCLUDE_PATHS }}
           main_sync_workflow_pr_reviewers: ${{ vars.MAIN_SYNC_WORKFLOW_PR_REVIEWERS }}
-          dry_run: false
